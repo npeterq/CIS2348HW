@@ -1,3 +1,8 @@
+"Peter Nguyen"
+"6/14/2021"
+"CIS2348"
+"1860823"
+
 from datetime import date
 
 
